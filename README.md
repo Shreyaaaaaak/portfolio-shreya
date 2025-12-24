@@ -1,4 +1,4 @@
-# Personal Developer Portfolio
+[# Personal Developer Portfolio
 
 A responsive personal portfolio website built from scratch to showcase my academic background, technical skills, and software development projects. This site serves as a centralized hub for my resume and GitHub repositories.
 
@@ -22,3 +22,4 @@ If you want to view or edit this code on your own machine:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/shreyaaak2308/shreya-portfolio.git](https://github.com/shreyaaak2308/shreya-portfolio.git)
+](https://Shreyaaaaaak.github.io/portfolio-shreya/)
